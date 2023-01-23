@@ -20,5 +20,5 @@ function guessinggame(){
     done
 }
 
-echo "Guess how many files are there in current directory?"
+echo "Guess how many files are there in current directory ?"
 guessinggame
