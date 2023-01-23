@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-# File: guessinggame.sh
+
 
 function guessinggame(){
     no_of_files=$(pwd | ls | wc -l)
